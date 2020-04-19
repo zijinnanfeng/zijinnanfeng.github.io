@@ -6,37 +6,15 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-18T15:17:45.621Z</updated>
+  <updated>2020-04-18T09:28:16.208Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Zi Jin Nan Feng</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>我的另一个博客</title>
-    <link href="http://yoursite.com/2020/04/18/%E6%88%91%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2020/04/18/%E6%88%91%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/</id>
-    <published>2020-04-18T15:15:00.000Z</published>
-    <updated>2020-04-18T15:17:45.621Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="这是标题"><a href="#这是标题" class="headerlink" title="这是标题"></a>这是标题</h2><h2 id="这是内容"><a href="#这是内容" class="headerlink" title="这是内容"></a>这是内容</h2><h2 id="这是标题2"><a href="#这是标题2" class="headerlink" title="这是标题2"></a>这是标题2</h2><p>这是内容2</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h2 id=&quot;这是标题&quot;&gt;&lt;a href=&quot;#这是标题&quot; class=&quot;headerlink&quot; title=&quot;这是标题&quot;&gt;&lt;/a&gt;这是标题&lt;/h2&gt;&lt;h2 id=&quot;这是内容&quot;&gt;&lt;a href=&quot;#这是内容&quot; class=&quot;headerlink&quot; title=&quot;这是内容&quot;&gt;&lt;/a
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -52,29 +30,6 @@
       
       
         &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>我的博客</title>
-    <link href="http://yoursite.com/2020/04/18/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2020/04/18/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
-    <published>2020-04-18T09:29:13.000Z</published>
-    <updated>2020-04-18T11:09:23.279Z</updated>
-    
-    <content type="html"><![CDATA[<p>##这是我第一次做这个<br>不知道大家能否看见？？？</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;##这是我第一次做这个&lt;br&gt;不知道大家能否看见？？？&lt;/p&gt;
-
       
     
     </summary>
