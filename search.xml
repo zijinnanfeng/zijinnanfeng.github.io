@@ -44,7 +44,7 @@
 <h2 id="5-将自己的博客部署到github上"><a href="#5-将自己的博客部署到github上" class="headerlink" title="5.将自己的博客部署到github上"></a>5.将自己的博客部署到github上</h2><p>首先登陆github（没有账号的注册一下）<br><a href="https://github.com" target="_blank" rel="noopener">https://github.com</a><br>登陆之后点开右上角的加号，点击第一项  新建一个repository<br><img src="/" class="lazyload" data-src="/2020/04/20/newfile/2.jpg"  alt><br>之后你要给你新建的仓库起一个名字<br><font size="4"><strong>注意：这里的名字要和你的用户名一致！</strong></font><br><img src="/" class="lazyload" data-src="/2020/04/20/newfile/3.jpg"  alt><br>接下来安装插件：</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
 <p>之后打开—config.yml,添加deploy信息</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ vim config.yml</span><br></pre></td></tr></table></figure>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ vim _config.yml</span><br></pre></td></tr></table></figure>
 <p>找到deploy 添加如下代码：</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  <span class="built_in">type</span>: git </span><br><span class="line">  repo: (这里填你刚才创建的github仓库的链接) </span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure>
 <p>最后打开git bash 输入以下命令：</p>
