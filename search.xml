@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/04/18/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>我的第一篇博客</title>
     <url>/2020/04/19/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>第一次做博客并把hexo部署到github上，多少有点小激动。</p>
@@ -39,9 +21,9 @@
 <p>执行完毕后hexo会为你生成一个默认的博客页面<br>输入以下命令：</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo g</span><br></pre></td></tr></table></figure>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure>
-<p>打开你的浏览器输入<br><a href="localhost:4000">localhost:4000</a><br>就可以看到hexo为你生成的默认的博客页面<br><img src="/" class="lazyload" data-src="/2020/04/20/newfile/1.jpg"  alt><br>个人刚才配置的时候修改了以下文字配置，所以标题跟你们显示的可能不太一样。</p>
+<p>打开你的浏览器输入<br><a href="localhost:4000">localhost:4000</a><br>就可以看到hexo为你生成的默认的博客页面<br><img src="/img/loading.gif" class="lazyload" data-src="/2020/04/20/newfile/1.jpg"  alt><br>个人刚才配置的时候修改了以下文字配置，所以标题跟你们显示的可能不太一样。</p>
 <p>至此，我们本地的配置先告一段落</p>
-<h2 id="5-将自己的博客部署到github上"><a href="#5-将自己的博客部署到github上" class="headerlink" title="5.将自己的博客部署到github上"></a>5.将自己的博客部署到github上</h2><p>首先登陆github（没有账号的注册一下）<br><a href="https://github.com" target="_blank" rel="noopener">https://github.com</a><br>登陆之后点开右上角的加号，点击第一项  新建一个repository<br><img src="/" class="lazyload" data-src="/2020/04/20/newfile/2.jpg"  alt><br>之后你要给你新建的仓库起一个名字<br><font size="4"><strong>注意：这里的名字要和你的用户名一致！</strong></font><br><img src="/" class="lazyload" data-src="/2020/04/20/newfile/3.jpg"  alt><br>接下来安装插件：</p>
+<h2 id="5-将自己的博客部署到github上"><a href="#5-将自己的博客部署到github上" class="headerlink" title="5.将自己的博客部署到github上"></a>5.将自己的博客部署到github上</h2><p>首先登陆github（没有账号的注册一下）<br><a href="https://github.com" target="_blank" rel="noopener">https://github.com</a><br>登陆之后点开右上角的加号，点击第一项  新建一个repository<br><img src="/img/loading.gif" class="lazyload" data-src="/2020/04/20/newfile/2.jpg"  alt><br>之后你要给你新建的仓库起一个名字<br><font size="4"><strong>注意：这里的名字要和你的用户名一致！</strong></font><br><img src="/img/loading.gif" class="lazyload" data-src="/2020/04/20/newfile/3.jpg"  alt><br>接下来安装插件：</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ npm install hexo-deployer-git --save</span><br></pre></td></tr></table></figure>
 <p>之后打开—config.yml,添加deploy信息</p>
 <figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ vim _config.yml</span><br></pre></td></tr></table></figure>
